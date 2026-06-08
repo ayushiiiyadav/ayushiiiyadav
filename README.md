@@ -21,7 +21,6 @@ const ayushi = {
   stack:    ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
   aiTools:  ["GitHub Copilot", "Claude", "ChatGPT", "Cursor"],
   currently: "Building AI-integrated web apps",
-  funFact:  "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
