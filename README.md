@@ -65,36 +65,6 @@ const ayushi = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔗 Project One</h3>
-      <p>A full-stack web application with real-time features, authentication, and a clean responsive UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://github.com/ayushiiiyadav">View Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>🔗 Project Two</h3>
-      <p>A RESTful API service with JWT auth, rate limiting, caching, and full test coverage.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://github.com/ayushiiiyadav">View Repo →</a>
-    </td>
-  </tr>
-</table>
-
----
-
-
 ## 🌐 Let's Connect
 
 <div align="center">
