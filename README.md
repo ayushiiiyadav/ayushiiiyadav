@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Hey%2C%20I'm%20Ayushi%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
-### Full Stack Developer · React · Node.js · TypeScript
+### Full Stack Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+clean+UIs+%26+robust+backends;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;AI-integrated+app+developer;Open+to+collabs+%26+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
