@@ -19,7 +19,6 @@ const ayushi = {
   role:     "Full Stack Developer",
   location: "India 🇮🇳",
   stack:    ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
-  aiTools:  ["GitHub Copilot", "Claude", "ChatGPT", "Cursor"],
   currently: "Building AI-integrated web apps",
 };
 ```
@@ -55,14 +54,6 @@ const ayushi = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🤖 AI Tools I Work With
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
 
 ## 🌐 Let's Connect
 
