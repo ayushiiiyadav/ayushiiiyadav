@@ -10,7 +10,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushiiiyadav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-yadav-61a891311)
-![Profile Views](https://komarev.com/ghpvc/?username=ayushiiiyadav&color=b8a9e3&style=for-the-badge&label=Profile+Views)
 
 </div>
 
