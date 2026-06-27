@@ -2,7 +2,7 @@
 
 # Ayushi Yadav
 
-**Full Stack Developer · India 🇮🇳**
+**Full Stack Developer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+AI-integrated+web+apps;Open+to+collabs+%26+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
