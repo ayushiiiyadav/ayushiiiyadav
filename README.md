@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Ayushi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=60&desc=Full%20Stack%20Developer%20%C2%B7%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=78&descFontColor=c7d2fe&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b8a9e3&height=180&section=header&text=Hey%2C%20I'm%20Ayushi%20%F0%9F%91%8B&fontSize=40&fontColor=fdf6ec&fontAlignY=60&desc=Full%20Stack%20Developer%20%C2%B7%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=78&descFontColor=fdf6ec&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+AI-integrated+web+apps+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=b8a9e3&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+AI-integrated+web+apps+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushiiiyadav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-yadav-61a891311)
-![Profile Views](https://komarev.com/ghpvc/?username=ayushiiiyadav&color=6366f1&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushiiiyadav&color=b8a9e3&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -41,30 +41,29 @@ const ayushi = {
 ## 🛠️ Tech Stack
 
 ### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-b8a9e3?style=for-the-badge&logo=react&logoColor=fdf6ec)
+![Next.js](https://img.shields.io/badge/Next.js-b8a9e3?style=for-the-badge&logo=next.js&logoColor=fdf6ec)
+![TypeScript](https://img.shields.io/badge/TypeScript-b8a9e3?style=for-the-badge&logo=typescript&logoColor=fdf6ec)
+![JavaScript](https://img.shields.io/badge/JavaScript-b8a9e3?style=for-the-badge&logo=javascript&logoColor=fdf6ec)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-b8a9e3?style=for-the-badge&logo=tailwind-css&logoColor=fdf6ec)
+![HTML5](https://img.shields.io/badge/HTML5-b8a9e3?style=for-the-badge&logo=html5&logoColor=fdf6ec)
+![CSS3](https://img.shields.io/badge/CSS3-b8a9e3?style=for-the-badge&logo=css3&logoColor=fdf6ec)
 
 ### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-b8a9e3?style=for-the-badge&logo=node.js&logoColor=fdf6ec)
+![Express.js](https://img.shields.io/badge/Express.js-b8a9e3?style=for-the-badge&logo=express&logoColor=fdf6ec)
+![REST API](https://img.shields.io/badge/REST_API-b8a9e3?style=for-the-badge&logo=postman&logoColor=fdf6ec)
+![JWT](https://img.shields.io/badge/JWT-b8a9e3?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=fdf6ec)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-b8a9e3?style=for-the-badge&logo=mongodb&logoColor=fdf6ec)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b8a9e3?style=for-the-badge&logo=postgresql&logoColor=fdf6ec)
+![MySQL](https://img.shields.io/badge/MySQL-b8a9e3?style=for-the-badge&logo=mysql&logoColor=fdf6ec)
 
 ### ☁️ Cloud & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-b8a9e3?style=for-the-badge&logo=github-actions&logoColor=fdf6ec)
+![Vercel](https://img.shields.io/badge/Vercel-b8a9e3?style=for-the-badge&logo=vercel&logoColor=fdf6ec)
+![Git](https://img.shields.io/badge/Git-b8a9e3?style=for-the-badge&logo=git&logoColor=fdf6ec)
 
 ---
 
@@ -72,13 +71,13 @@ const ayushi = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushiiiyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c7d2fe" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushiiiyadav&show_icons=true&hide_border=true&bg_color=fdf6ec&title_color=9b8dc4&icon_color=b8a9e3&text_color=7a6b9a" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushiiiyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c7d2fe" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushiiiyadav&layout=compact&hide_border=true&bg_color=fdf6ec&title_color=9b8dc4&text_color=7a6b9a" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushiiiyadav&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&hide_border=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushiiiyadav&bg_color=fdf6ec&color=9b8dc4&line=b8a9e3&point=9b8dc4&area=true&area_color=e8e0f5&hide_border=true" />
 
 </div>
 
@@ -98,7 +97,7 @@ const ayushi = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b8a9e3&height=100&section=footer" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushiiiyadav&color=6366f1&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushiiiyadav&color=b8a9e3&style=flat)
 </div>
