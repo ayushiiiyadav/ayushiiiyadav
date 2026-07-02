@@ -48,8 +48,6 @@ const ayushi = {
 - Built multiple full-stack and AI-powered projects  
 - Currently focusing on modern web technologies and AI integration  
 
-> "Turning coffee into code and ideas into reality ✨"
-
 ---
 
 ## 🛠️ Tech Stack
