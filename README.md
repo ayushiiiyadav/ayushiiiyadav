@@ -51,22 +51,27 @@ const ayushi = {
 ---
 
 ## 🛠️ Tech Stack
-
 ### ⚡ Frontend
 ![React](https://img.shields.io/badge/React-b8a9e3?style=for-the-badge&logo=react&logoColor=fdf6ec)
 ![Next.js](https://img.shields.io/badge/Next.js-b8a9e3?style=for-the-badge&logo=next.js&logoColor=fdf6ec)
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8a9e3?style=for-the-badge&logo=typescript&logoColor=fdf6ec)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-b8a9e3?style=for-the-badge&logo=javascript&logoColor=fdf6ec)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-b8a9e3?style=for-the-badge&logo=tailwind-css&logoColor=fdf6ec)
+![HTML5](https://img.shields.io/badge/HTML5-b8a9e3?style=for-the-badge&logo=html5&logoColor=fdf6ec)
+![CSS3](https://img.shields.io/badge/CSS3-b8a9e3?style=for-the-badge&logo=css3&logoColor=fdf6ec)
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-b8a9e3?style=for-the-badge&logo=node.js&logoColor=fdf6ec)
-
+![Express.js](https://img.shields.io/badge/Express.js-b8a9e3?style=for-the-badge&logo=express&logoColor=fdf6ec)
+![REST API](https://img.shields.io/badge/REST_API-b8a9e3?style=for-the-badge&logo=postman&logoColor=fdf6ec)
+![JWT](https://img.shields.io/badge/JWT-b8a9e3?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=fdf6ec)
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-b8a9e3?style=for-the-badge&logo=mongodb&logoColor=fdf6ec)
-
-### ☁️ Tools
-![Git](https://img.shields.io/badge/Git-b8a9e3?style=for-the-badge&logo=git&logoColor=fdf6ec)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b8a9e3?style=for-the-badge&logo=postgresql&logoColor=fdf6ec)
+![MySQL](https://img.shields.io/badge/MySQL-b8a9e3?style=for-the-badge&logo=mysql&logoColor=fdf6ec)
+### ☁️ Cloud & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-b8a9e3?style=for-the-badge&logo=github-actions&logoColor=fdf6ec)
 ![Vercel](https://img.shields.io/badge/Vercel-b8a9e3?style=for-the-badge&logo=vercel&logoColor=fdf6ec)
-
+![Git](https://img.shields.io/badge/Git-b8a9e3?style=for-the-badge&logo=git&logoColor=fdf6ec)
 ---
 
 ## 📊 GitHub Stats
