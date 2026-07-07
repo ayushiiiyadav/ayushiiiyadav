@@ -26,7 +26,7 @@ const ayushi = {
   location: "India",
   university: "Shri Ram Swaroop Memorial University",
   stack: ["React", "Next.js", "TypeScript", "Node.js", "FastAPI", "MongoDB"],
-  currently: "Building KharchaBook & Nova AI",
+  currently: "Building full-stack apps & exploring AI integration",
   openTo: ["internships", "freelance projects", "full-time roles"],
 };
 ```
@@ -38,27 +38,6 @@ const ayushi = {
 Click a project to expand and see the full tech breakdown ⬇️
 
 <details open>
-<summary><b>💸 KharchaBook — Full-Stack Student Budget Tracker</b></summary>
-<br/>
-
-A budget tracking app built for students, with real authentication and a real backend — not just mock data.
-
-**Tech Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-b8a9e3?style=flat-square&logo=next.js&logoColor=fdf6ec)
-![TypeScript](https://img.shields.io/badge/TypeScript-b8a9e3?style=flat-square&logo=typescript&logoColor=fdf6ec)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-b8a9e3?style=flat-square&logo=tailwind-css&logoColor=fdf6ec)
-![FastAPI](https://img.shields.io/badge/FastAPI-b8a9e3?style=flat-square&logo=fastapi&logoColor=fdf6ec)
-![SQLite](https://img.shields.io/badge/SQLite-b8a9e3?style=flat-square&logo=sqlite&logoColor=fdf6ec)
-![JWT](https://img.shields.io/badge/JWT_Auth-b8a9e3?style=flat-square&logo=JSON%20web%20tokens&logoColor=fdf6ec)
-
-- Frontend: Next.js + TypeScript + Tailwind
-- Backend: FastAPI + SQLite with JWT-based protected routes
-- Auth: full login/signup flow with token-based session handling
-
-</details>
-
-<details>
 <summary><b>🤖 Nova AI — RAG-Powered Chatbot</b></summary>
 <br/>
 
@@ -74,27 +53,6 @@ A Groq-powered chatbot upgraded with a Retrieval-Augmented Generation pipeline s
 - LLM: Groq API with a selectable multi-model setup
 - RAG: ChromaDB + sentence-transformers for embedding & retrieval
 - UI: custom dark theme with an animated starfield canvas
-
-</details>
-
-<details>
-<summary><b>🫂 Buddy — AI Companion App</b></summary>
-<br/>
-
-An emotionally-aware AI companion with Hinglish support and a calming toolkit built in.
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-b8a9e3?style=flat-square&logo=react&logoColor=fdf6ec)
-![FastAPI](https://img.shields.io/badge/FastAPI-b8a9e3?style=flat-square&logo=fastapi&logoColor=fdf6ec)
-![SQLite](https://img.shields.io/badge/SQLite-b8a9e3?style=flat-square&logo=sqlite&logoColor=fdf6ec)
-![Groq](https://img.shields.io/badge/Groq_API-b8a9e3?style=flat-square&logo=groq&logoColor=fdf6ec)
-![Web Audio API](https://img.shields.io/badge/Web_Audio_API-b8a9e3?style=flat-square&logo=webaudioapi&logoColor=fdf6ec)
-
-- Frontend built with raw `React.createElement` — no JSX/Babel
-- Hinglish language detection for natural bilingual conversation
-- Live waveform visualizer via the Web Audio API
-- Dismissible calming toolkit + auto-scroll chat
 
 </details>
 
@@ -160,7 +118,7 @@ A single consolidated `index.html` with embedded CSS/JS — no framework, just h
 ## ✨ My Coding Journey
 
 - Started with HTML, CSS & JavaScript
-- Built multiple full-stack and AI-powered projects (Magic Quiz → Nova AI → Buddy → KharchaBook)
+- Built multiple full-stack and AI-powered projects, from quiz apps to RAG-based chatbots
 - Currently focusing on full-stack apps with real backends and AI/RAG integration
 
 ---
@@ -209,14 +167,24 @@ A single consolidated `index.html` with embedded CSS/JS — no framework, just h
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushiiiyadav&hide_border=true&background=fdf6ec&stroke=b8a9e3&ring=b8a9e3&fire=b8a9e3&currStreakLabel=9b8dc4&currStreakNum=7a6b9a&sideNums=7a6b9a&sideLabels=7a6b9a&dates=7a6b9a" />
+  <img src="https://streak-stats.demolab.com/?user=ayushiiiyadav&hide_border=true&background=fdf6ec&stroke=b8a9e3&ring=b8a9e3&fire=b8a9e3&currStreakLabel=9b8dc4&currStreakNum=7a6b9a&sideNums=7a6b9a&sideLabels=7a6b9a&dates=7a6b9a" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushiiiyadav&bg_color=fdf6ec&color=9b8dc4&line=b8a9e3&point=7a6b9a&hide_border=true" width="90%"/>
 </div>
 
-> 💡 If the cards above show a broken image icon: the public stats service (`github-readme-stats.vercel.app`) is shared across all of GitHub, so it occasionally hits rate limits and returns a temporary error — this isn't something wrong with the README itself. It usually resolves within a few minutes on refresh. If it stays broken for you longer-term, the two reliable fixes are: (1) append a changing dummy param like `&cache_seconds=1800` so GitHub's cache refreshes, or (2) fork the repo and deploy your own free Vercel instance so you're not sharing a quota with everyone else.
+> 💡 **About broken stat images:** two different problems can cause this, and your screenshot showed both.
+> 1. **Stats / top-langs cards** — these run on a public shared Vercel instance used by all of GitHub, so they sometimes hit rate limits and return a temporary error. Not a config problem on your end; it usually clears up on its own within a few minutes.
+> 2. **Streak card** — this one was actually broken for good: it pointed at `herokuapp.com`, and Heroku shut down its free tier back in 2022, so that domain no longer serves anything. I've swapped it to `streak-stats.demolab.com`, which is the streak card's current live domain — this one is a permanent fix, not a retry-and-hope situation.
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushiiiyadav&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</div>
 
 ---
 
