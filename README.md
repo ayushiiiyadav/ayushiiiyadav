@@ -173,7 +173,6 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-b8a9e3?style=for-the-badge&logo=mongodb&logoColor=fdf6ec)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b8a9e3?style=for-the-badge&logo=postgresql&logoColor=fdf6ec)
 ![SQLite](https://img.shields.io/badge/SQLite-b8a9e3?style=for-the-badge&logo=sqlite&logoColor=fdf6ec)
 ![MySQL](https://img.shields.io/badge/MySQL-b8a9e3?style=for-the-badge&logo=mysql&logoColor=fdf6ec)
 
@@ -187,21 +186,8 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushiiiyadav&show_icons=true&hide_border=true&bg_color=fdf6ec&title_color=9b8dc4&text_color=7a6b9a&icon_color=b8a9e3&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushiiiyadav&layout=compact&hide_border=true&bg_color=fdf6ec&title_color=9b8dc4&text_color=7a6b9a" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushiiiyadav&hide_border=true&background=fdf6ec&stroke=b8a9e3&ring=b8a9e3&fire=b8a9e3&currStreakLabel=9b8dc4&currStreakNum=7a6b9a&sideNums=7a6b9a&sideLabels=7a6b9a&dates=7a6b9a" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushiiiyadav&bg_color=fdf6ec&color=9b8dc4&line=b8a9e3&point=7a6b9a&hide_border=true" width="90%"/>
 </div>
-
-> 💡 **About broken stat images:** two different problems can cause this, and your screenshot showed both.
-> 1. **Stats / top-langs cards** — these run on a public shared Vercel instance used by all of GitHub, so they sometimes hit rate limits and return a temporary error. Not a config problem on your end; it usually clears up on its own within a few minutes.
-> 2. **Streak card** — this one was actually broken for good: it pointed at `herokuapp.com`, and Heroku shut down its free tier back in 2022, so that domain no longer serves anything. I've swapped it to `streak-stats.demolab.com`, which is the streak card's current live domain — this one is a permanent fix, not a retry-and-hope situation.
 
 ---
 
