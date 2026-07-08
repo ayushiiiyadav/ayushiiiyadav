@@ -197,8 +197,6 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
   <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%"/>
 </div>
 
-> This one needs a **one-time setup**: add the workflow file below to your repo as `.github/workflows/snake.yml`, then push. GitHub Actions will run it automatically and generate the animated SVG on an `output` branch — the snake literally eats your contribution graph square by square. Since it's generated inside your own repo (not a shared third-party server), it won't ever hit the rate-limit problem above.
-
 ---
 
 ## 🌐 Let's Connect
