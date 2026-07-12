@@ -186,18 +186,6 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/main/profile-summary-card-output/github/stats.svg" />
-  <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/main/profile-summary-card-output/github/repos-per-language.svg" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/main/profile-summary-card-output/github/most-commit-language.svg" />
-</div>
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
