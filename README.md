@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b8a9e3&height=180&section=header&text=Hey%2C%20I'm%20Ayushi%20👋&fontSize=40&fontColor=fdf6ec&fontAlignY=60&desc=Web%20Developer%20%C2%B7%20Tech%20Enthusiast%20%C2%B7%20Final%20Year%20Student&descSize=16&descAlignY=78&descFontColor=fdf6ec&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b8a9e3&height=180&section=header&text=Hey%2C%20I'm%20Ayushi%20&fontSize=40&fontColor=fdf6ec&fontAlignY=60&desc=Web%20Developer%20%C2%B7%20Tech%20Enthusiast%20%C2%B7%20Final%20Year%20Student&descSize=16&descAlignY=78&descFontColor=fdf6ec&animation=fadeIn" width="100%" />
   <br/><br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=b8a9e3&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+full-stack+apps%2C+one+commit+at+a+time;Currently+exploring+RAG+%26+AI-powered+apps+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -169,10 +169,13 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
 ### 🤖 AI / ML
 ![Groq](https://img.shields.io/badge/Groq_API-b8a9e3?style=for-the-badge&logo=groq&logoColor=fdf6ec)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-b8a9e3?style=for-the-badge&logo=databricks&logoColor=fdf6ec)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-b8a9e3?style=for-the-badge&logo=huggingface&logoColor=fdf6ec)
+![Streamlit](https://img.shields.io/badge/Streamlit-b8a9e3?style=for-the-badge&logo=streamlit&logoColor=fdf6ec)
 ![Python](https://img.shields.io/badge/Python-b8a9e3?style=for-the-badge&logo=python&logoColor=fdf6ec)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-b8a9e3?style=for-the-badge&logo=mongodb&logoColor=fdf6ec)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b8a9e3?style=for-the-badge&logo=postgresql&logoColor=fdf6ec)
 ![SQLite](https://img.shields.io/badge/SQLite-b8a9e3?style=for-the-badge&logo=sqlite&logoColor=fdf6ec)
 ![MySQL](https://img.shields.io/badge/MySQL-b8a9e3?style=for-the-badge&logo=mysql&logoColor=fdf6ec)
 
@@ -186,9 +189,13 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushiiiyadav&bg_color=fdf6ec&color=9b8dc4&line=b8a9e3&point=7a6b9a&hide_border=true" width="90%"/>
+  <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/main/profile-summary-card-output/github/stats.svg" />
+  <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/main/profile-summary-card-output/github/repos-per-language.svg" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayushiiiyadav/ayushiiiyadav/main/profile-summary-card-output/github/most-commit-language.svg" />
+</div>
 ---
 
 ## 🐍 Contribution Snake
