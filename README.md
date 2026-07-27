@@ -59,6 +59,26 @@ A Groq-powered chatbot upgraded with a Retrieval-Augmented Generation pipeline s
 </details>
 
 <details open>
+<summary><b>💸 KharchaBook — Budget Tracker with Personality</b></summary>
+<br/>
+
+A full-stack budget tracker that ditches boring finance-app UI for a distinctive, humor-forward identity — think a "Broke-o-meter" mood gauge instead of a plain balance number.
+
+**Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-b8a9e3?style=flat-square&logo=next.js&logoColor=fdf6ec)
+![TypeScript](https://img.shields.io/badge/TypeScript-b8a9e3?style=flat-square&logo=typescript&logoColor=fdf6ec)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8a9e3?style=flat-square&logo=fastapi&logoColor=fdf6ec)
+![SQLite](https://img.shields.io/badge/SQLite-b8a9e3?style=flat-square&logo=sqlite&logoColor=fdf6ec)
+![Three.js](https://img.shields.io/badge/Three.js-b8a9e3?style=flat-square&logo=three.js&logoColor=fdf6ec)
+
+- Receipt-style UI with a "Broke-o-meter" mood gauge and custom KharchaKarma color palette
+- React Three Fiber 3D scroll intro with floating rupee coins and a mood-linked point light
+- JWT-secured auth, per-user data scoping, and a Recharts-powered balance-over-time insights page
+
+</details>
+
+<details open>
 <summary><b>🎯 Magic Quiz — Interactive Quiz App for Kids</b></summary>
 <br/>
 
