@@ -76,6 +76,8 @@ A full-stack budget tracker that ditches boring finance-app UI for a distinctive
 - React Three Fiber 3D scroll intro with floating rupee coins and a mood-linked point light
 - JWT-secured auth, per-user data scoping, and a Recharts-powered balance-over-time insights page
 
+[Repo →](https://github.com/ayushiiiyadav/KharchaBook) · [Live →](https://kharcha-book-eight.vercel.app/)
+
 </details>
 
 <details open>
