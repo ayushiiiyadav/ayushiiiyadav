@@ -18,7 +18,7 @@ I'm a **final year Computer Science student** at **Shri Ram Swaroop Memorial Uni
 
 I am **actively seeking internships**, freelance projects, and full-time opportunities in web development.
 
-- 🙋‍♀️ **Name:** Ayushi Yadav ([@ayushiiiyadav](https://github.com/ayushiiiyadav))
+- 🙋‍♀️ **Name:** Ayushi Yadav 
 - 💼 **Role:** Full-Stack Developer | Final Year CS Student
 - 📍 **Location:** India
 - 🎓 **University:** Shri Ram Swaroop Memorial University
