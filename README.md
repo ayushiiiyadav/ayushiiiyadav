@@ -18,18 +18,13 @@ I'm a **final year Computer Science student** at **Shri Ram Swaroop Memorial Uni
 
 I am **actively seeking internships**, freelance projects, and full-time opportunities in web development.
 
-```ts
-const ayushi = {
-  name: "Ayushi Yadav",
-  handle: "@ayushiiiyadav",
-  role: "Web Developer & Tech Enthusiast",
-  location: "India",
-  university: "Shri Ram Swaroop Memorial University",
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "FastAPI", "MongoDB"],
-  currently: "Building full-stack apps & exploring AI integration",
-  openTo: ["internships", "freelance projects", "full-time roles"],
-};
-```
+- 🙋‍♀️ **Name:** Ayushi Yadav ([@ayushiiiyadav](https://github.com/ayushiiiyadav))
+- 💼 **Role:** Full-Stack Developer | Final Year CS Student
+- 📍 **Location:** India
+- 🎓 **University:** Shri Ram Swaroop Memorial University
+- 💻 **Core Stack:** React, Next.js, TypeScript, Node.js, FastAPI, MongoDB
+- 🚧 **Currently:** Building full-stack apps & exploring AI integration
+- 📌 **Open to:** Internships, freelance projects, full-time roles
 
 ---
 
