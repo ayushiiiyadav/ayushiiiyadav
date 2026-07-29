@@ -214,9 +214,6 @@ A basic HTML to-do list refactored into a multi-file app with a cute, mascot-dri
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/ayushiiiyadav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/ayushi-yadav-61a891311">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
