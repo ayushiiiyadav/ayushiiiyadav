@@ -134,14 +134,6 @@ A full storefront build covering the core shopping flow — product listings, ca
 
 [Repo →](https://github.com/ayushiiiyadav/E-Commerce-Website) · [Live →](https://zivara-gamma.vercel.app)
 
-</details>
-
-<details open>
-<summary><b>✅ To-Do List — Kawaii Task Manager</b></summary>
-<br/>
-
-A basic HTML to-do list refactored into a multi-file app with a cute, mascot-driven aesthetic — built to practice breaking a single-file project into organized components.
-
 **Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/HTML5-b8a9e3?style=flat-square&logo=html5&logoColor=fdf6ec)
