@@ -10,7 +10,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me 🙋‍♀️
 
 > *I build things for the web — and learn from every challenge along the way.*
 
@@ -19,7 +19,7 @@ I'm a **final year Computer Science student** at **Shri Ram Swaroop Memorial Uni
 I am **actively seeking internships**, freelance projects, and full-time opportunities in web development.
 
 - 🙋‍♀️ **Name:** Ayushi Yadav 
-- 💼 **Role:** Full-Stack Developer | Final Year CS Student
+- 💼 **Role:** Final Year CS Student
 - 📍 **Location:** India
 - 🎓 **University:** Shri Ram Swaroop Memorial University
 - 💻 **Core Stack:** React, Next.js, TypeScript, Node.js, FastAPI, MongoDB
