@@ -20,7 +20,7 @@ I am **actively seeking internships**, freelance projects, and full-time opportu
 
 - 🙋‍♀️ **Name:** Ayushi Yadav
 - 💼 **Role:** Final Year CS Student
-- 📍 **Location:** India
+- 📍 **Location:** Lucknow, India
 - 🎓 **University:** Shri Ram Swaroop Memorial University
 - 💻 **Core Stack:** React, Next.js, TypeScript, Node.js, FastAPI, MongoDB
 - 🚧 **Currently:** Building full-stack apps & exploring AI integration
