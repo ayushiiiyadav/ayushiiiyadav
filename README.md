@@ -10,7 +10,7 @@
 
 ---
 
-##  About Me 🙋‍♀️
+## About Me 🙋‍♀️
 
 > *I build things for the web — and learn from every challenge along the way.*
 
@@ -18,7 +18,7 @@ I'm a **final year Computer Science student** at **Shri Ram Swaroop Memorial Uni
 
 I am **actively seeking internships**, freelance projects, and full-time opportunities in web development.
 
-- 🙋‍♀️ **Name:** Ayushi Yadav 
+- 🙋‍♀️ **Name:** Ayushi Yadav
 - 💼 **Role:** Final Year CS Student
 - 📍 **Location:** India
 - 🎓 **University:** Shri Ram Swaroop Memorial University
@@ -31,27 +31,6 @@ I am **actively seeking internships**, freelance projects, and full-time opportu
 ## 🚀 Featured Projects
 
 All projects shown in full below — click a title to collapse it if you want a shorter scroll ⬇️
-
-<details open>
-<summary><b>🤖 Nova AI — RAG-Powered Chatbot</b></summary>
-<br/>
-
-A Groq-powered chatbot upgraded with a Retrieval-Augmented Generation pipeline so it can answer from real documents, not just model memory.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-b8a9e3?style=flat-square&logo=python&logoColor=fdf6ec)
-![Groq](https://img.shields.io/badge/Groq_API-b8a9e3?style=flat-square&logo=groq&logoColor=fdf6ec)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-b8a9e3?style=flat-square&logo=databricks&logoColor=fdf6ec)
-![Streamlit](https://img.shields.io/badge/Streamlit-b8a9e3?style=flat-square&logo=streamlit&logoColor=fdf6ec)
-
-- LLM: Groq API with a selectable multi-model setup
-- RAG: ChromaDB + sentence-transformers for embedding & retrieval
-- UI: custom dark theme with an animated starfield canvas
-
-[Repo →](https://github.com/ayushiiiyadav/ai-chatbot)
-
-</details>
 
 <details open>
 <summary><b>💸 KharchaBook — Budget Tracker with Personality</b></summary>
@@ -76,75 +55,69 @@ A full-stack budget tracker that ditches boring finance-app UI for a distinctive
 </details>
 
 <details open>
-<summary><b>🎯 Magic Quiz — Interactive Quiz App for Kids</b></summary>
+<summary><b>🏪 Vyapar Setu (व्यापार सेतु) — Voice-Enabled Inventory & Udhaar App for Kirana Stores</b></summary>
 <br/>
 
-My first full project built from scratch — five quiz categories designed for primary schoolers, with game-like feedback loops to keep them engaged.
+A voice-first inventory, billing and udhaar (credit) app for small Indian kirana stores. The owner can ask "how much rice is left?" in Hindi, English, Marathi or Telugu and get a spoken answer straight from the shop's real data — no menus, no English-only software.
+
+**Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-b8a9e3?style=flat-square&logo=next.js&logoColor=fdf6ec)
+![TypeScript](https://img.shields.io/badge/TypeScript-b8a9e3?style=flat-square&logo=typescript&logoColor=fdf6ec)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-b8a9e3?style=flat-square&logo=tailwind-css&logoColor=fdf6ec)
+![MongoDB](https://img.shields.io/badge/MongoDB-b8a9e3?style=flat-square&logo=mongodb&logoColor=fdf6ec)
+![Groq](https://img.shields.io/badge/Groq_Whisper-b8a9e3?style=flat-square&logo=groq&logoColor=fdf6ec)
+![Gemini](https://img.shields.io/badge/Gemini_TTS-b8a9e3?style=flat-square&logo=googlegemini&logoColor=fdf6ec)
+
+- Voice assistant in 4 languages: the AI only picks the intent, while numbers come from MongoDB and replies from fixed templates, so it can't invent a stock figure
+- Billing with cash/udhaar, auto stock updates, purchase tracking with expiry dates, and WhatsApp payment reminders
+- Dashboard with sales trends, low-stock & expiry alerts, best sellers, and estimated profit
+
+[Repo →](https://github.com/ayushiiiyadav/Vyapar_setu) · [Live →](https://vyapar-setu-two.vercel.app)
+
+</details>
+
+<details open>
+<summary><b>🤖 Nova AI — RAG-Powered Chatbot</b></summary>
+<br/>
+
+A Groq-powered chatbot upgraded with a Retrieval-Augmented Generation pipeline so it can answer from real documents, not just model memory.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-b8a9e3?style=flat-square&logo=python&logoColor=fdf6ec)
+![Groq](https://img.shields.io/badge/Groq_API-b8a9e3?style=flat-square&logo=groq&logoColor=fdf6ec)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-b8a9e3?style=flat-square&logo=databricks&logoColor=fdf6ec)
+![Streamlit](https://img.shields.io/badge/Streamlit-b8a9e3?style=flat-square&logo=streamlit&logoColor=fdf6ec)
+
+- LLM: Groq API with a selectable multi-model setup
+- RAG: ChromaDB + sentence-transformers for embedding & retrieval
+- UI: custom dark theme with an animated starfield canvas
+
+[Repo →](https://github.com/ayushiiiyadav/ai-chatbot)
+
+</details>
+
+<details open>
+<summary><b>💛 Buddy — Emotion-Aware Companion for Support & Study</b></summary>
+<br/>
+
+An emotion-aware companion app that reads how you're feeling from your text and your voice tone, then replies with calibrated empathy and practical help — a supportive friend and a study buddy in one.
 
 **Tech Stack**
 
 ![React](https://img.shields.io/badge/React-b8a9e3?style=flat-square&logo=react&logoColor=fdf6ec)
-![Vite](https://img.shields.io/badge/Vite-b8a9e3?style=flat-square&logo=vite&logoColor=fdf6ec)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-b8a9e3?style=flat-square&logo=tailwind-css&logoColor=fdf6ec)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-b8a9e3?style=flat-square&logo=framer&logoColor=fdf6ec)
-
-- 5 quiz categories with lives/hearts system
-- Streak bonuses + confetti animations on correct answers
-- Deployed on Vercel via GitHub integration
-
-[Repo →](https://github.com/ayushiiiyadav/magic-quiz)
-
-</details>
-
-<details open>
-<summary><b>🌐 Portfolio Website</b></summary>
-<br/>
-
-A single consolidated `index.html` with embedded CSS/JS — no framework, just hand-built animation.
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-b8a9e3?style=flat-square&logo=html5&logoColor=fdf6ec)
-![CSS3](https://img.shields.io/badge/CSS3-b8a9e3?style=flat-square&logo=css3&logoColor=fdf6ec)
 ![JavaScript](https://img.shields.io/badge/JavaScript-b8a9e3?style=flat-square&logo=javascript&logoColor=fdf6ec)
+![Python](https://img.shields.io/badge/Python-b8a9e3?style=flat-square&logo=python&logoColor=fdf6ec)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8a9e3?style=flat-square&logo=fastapi&logoColor=fdf6ec)
+![SQLite](https://img.shields.io/badge/SQLite-b8a9e3?style=flat-square&logo=sqlite&logoColor=fdf6ec)
+![Groq](https://img.shields.io/badge/Groq_API-b8a9e3?style=flat-square&logo=groq&logoColor=fdf6ec)
 
-- Animated star canvas background + custom cursor
-- Scroll-reveal animations on project cards
-- Deployed on Vercel via GitHub integration
+- Emotion + intensity (0–100) detection that shapes the reply, from gentle encouragement to crisis-mode support, with a calming toolkit at very high anxiety levels
+- Voice input: Groq Whisper transcribes what you said while Librosa analyzes pitch, energy and pace of how you said it
+- Hinglish-aware replies, ChatGPT-style multi-conversation sidebar with persistent history, and an AI personality reflection panel
 
-[Repo →](https://github.com/ayushiiiyadav/Portfolio) · [Live →](https://portfoliopage-inky.vercel.app)
-
-</details>
-
-<details open>
-<summary><b>🛒 E-Commerce Site</b></summary>
-<br/>
-
-A full storefront build covering the core shopping flow — product listings, cart, and checkout — built without a framework to strengthen fundamentals in vanilla JS.
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-b8a9e3?style=flat-square&logo=html5&logoColor=fdf6ec)
-![CSS3](https://img.shields.io/badge/CSS3-b8a9e3?style=flat-square&logo=css3&logoColor=fdf6ec)
-![JavaScript](https://img.shields.io/badge/JavaScript-b8a9e3?style=flat-square&logo=javascript&logoColor=fdf6ec)
-
-- Product listing pages with cart add/remove logic
-- Persistent cart state across page navigation
-- Deployed on Vercel via GitHub integration
-
-[Repo →](https://github.com/ayushiiiyadav/E-Commerce-Website) · [Live →](https://zivara-gamma.vercel.app)
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-b8a9e3?style=flat-square&logo=html5&logoColor=fdf6ec)
-![CSS3](https://img.shields.io/badge/CSS3-b8a9e3?style=flat-square&logo=css3&logoColor=fdf6ec)
-![JavaScript](https://img.shields.io/badge/JavaScript-b8a9e3?style=flat-square&logo=javascript&logoColor=fdf6ec)
-
-- LocalStorage persistence for tasks across sessions
-- Filter views (all / active / completed)
-- Confetti celebration + mascot system on task completion
-
-[Repo →](https://github.com/ayushiiiyadav/TO_DO_LIST)
+[Repo →](https://github.com/ayushiiiyadav/Buddy)
 
 </details>
 
@@ -153,7 +126,7 @@ A full storefront build covering the core shopping flow — product listings, ca
 ## ✨ My Coding Journey
 
 - Started with HTML, CSS & JavaScript
-- Built multiple full-stack and AI-powered projects, from quiz apps to RAG-based chatbots
+- Built multiple full-stack and AI-powered projects, from budget trackers to voice assistants and RAG-based chatbots
 - Currently focusing on full-stack apps with real backends and AI/RAG integration
 
 ---
